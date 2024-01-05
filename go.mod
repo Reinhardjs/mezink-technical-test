@@ -5,7 +5,6 @@ go 1.19
 require (
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/labstack/echo v3.3.10+incompatible
-	github.com/lib/pq v1.10.9
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/viper v1.18.2
 )
