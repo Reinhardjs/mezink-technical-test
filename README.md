@@ -41,6 +41,11 @@ docker build -t mezink .
 
 <br>
 
+I have deployed this to VPS under docker, you can access from here:
+http://103.63.25.95:9090
+
+<br>
+
 ### Available endpoints :
 - `POST` localhost:9090/records
 
