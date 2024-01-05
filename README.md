@@ -7,6 +7,8 @@
 ---
 If you want to run this project on your local machine, do the followings
 
+<br>
+
 ### Without using docker
 ---
 
@@ -25,6 +27,8 @@ go mod tidy
 ```
 go run main.go
 ```
+
+<br>
 
 ### Using docker
 ---
