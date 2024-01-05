@@ -34,7 +34,6 @@ docker build -t mezink .
 
 available endpoints :
 - `POST` localhost:9090/records
-- 
 
 ### Example Request Body Payload for `POST` /records :
 ```
@@ -43,5 +42,25 @@ available endpoints :
     "endDate": "2024-12-31",
     "minCount": 0,
     "maxCount": 1000
+}
+```
+
+### Example Response Body Payload for `POST` /records :
+```
+{
+    "code": 0,
+    "msg": "Success",
+    "records": [
+        {
+            "id": 1,
+            "name": "name 1",
+            "marks": [
+                100,
+                50,
+                50
+            ],
+            "created_at": "2024-01-05T13:12:46+07:00"
+        }
+    ]
 }
 ```
