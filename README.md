@@ -33,7 +33,7 @@ docker build -t mezink .
 <br>
 
 available endpoints :
-- `POST` localhost:8080/records
+- `POST` localhost:9090/records
 - 
 
 ### Example Request Body Payload for `POST` /records :
