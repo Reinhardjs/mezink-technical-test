@@ -3,8 +3,6 @@
 * Go (Echo)
 * Docker
 
-<br>
-
 ## Running in local
 If you want to run this project on your local machine, do the followings
 
