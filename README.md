@@ -77,3 +77,9 @@ docker build -t mezink .
     ]
 }
 ```
+
+<br>
+### Table Structure
+---
+
+![image](https://github.com/Reinhardjs/mezink-technical-test/assets/7758970/5c5d9279-f0c6-4f1a-a70b-40cdf8ac90c4)
