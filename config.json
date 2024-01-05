@@ -1,0 +1,16 @@
+{
+    "debug": true,
+    "server": {
+        "address": ":9090"
+    },
+    "context": {
+        "timeout": 2
+    },
+    "database": {
+        "host": "db4free.net",
+        "port": "3306",
+        "user": "mezink_reinhard",
+        "pass": "keTMz56JeSzHsZ",
+        "name": "mezink_db"
+    }
+}
