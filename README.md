@@ -39,6 +39,10 @@ go run main.go
 docker build -t mezink .
 ```
 
+```
+sudo docker run -d -p 9090:9090 --name mezink mezink
+```
+
 <br>
 
 I have deployed this to VPS under docker, you can access from here:
