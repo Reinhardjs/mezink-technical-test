@@ -4,9 +4,11 @@
 * Docker
 
 ## Running in local
+---
 If you want to run this project on your local machine, do the followings
 
 ### Without using docker
+---
 
 ```
 go get -u -t -d -v ./...
@@ -25,6 +27,7 @@ go run main.go
 ```
 
 ### Using docker
+---
 
 ```
 docker build -t mezink .
@@ -34,6 +37,10 @@ docker build -t mezink .
 
 available endpoints :
 - `POST` localhost:9090/records
+
+<br>
+
+---
 
 ### Example Request Body Payload for `POST` /records :
 ```
